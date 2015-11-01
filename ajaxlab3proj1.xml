@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE MUSIC_LIBRARY>
+<MUSIC_LIBRARY>
+  <LISTING>
+    <ALBUM TYPE="NAME">Ten Summoner's Tales</ALBUM>
+    <ALBUM TYPE="YEAR">1993</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+  <LISTING>
+    <ALBUM TYPE="NAME">I'm So Happy I Can't Stop Crying</ALBUM>
+    <ALBUM TYPE="YEAR">1996</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+  <LISTING>
+    <ALBUM TYPE="NAME">You Still Touch Me</ALBUM>
+    <ALBUM TYPE="YEAR">1996</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+  <LISTING>
+    <ALBUM TYPE="NAME">Nothing Like the Sun</ALBUM>
+    <ALBUM TYPE="YEAR">1990</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+  <LISTING>
+    <ALBUM TYPE="NAME">Sacred Love</ALBUM>
+    <ALBUM TYPE="YEAR">2003</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+  <LISTING>
+    <ALBUM TYPE="NAME">Songs from the Labyrinth</ALBUM>
+    <ALBUM TYPE="YEAR">2006</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+  <LISTING>
+    <ALBUM TYPE="NAME">If On a Winter's Night</ALBUM>
+    <ALBUM TYPE="YEAR">2009</ALBUM>
+    <ARTIST>Sting</ARTIST>
+  </LISTING>
+</MUSIC_LIBRARY>
